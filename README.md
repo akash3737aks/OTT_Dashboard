@@ -36,9 +36,9 @@ This Power BI project provides an in-depth analysis of three major OTT streaming
 📈 Which platform has shown the highest growth in revenue?  
 
 ## 📌 Dashboard & Insights  
-📊 **View the Interactive Netflix Dashboard:** *Click Here*  
-📊 **View the Interactive Hotstar Dashboard:** *Click Here*  
-📊 **View the Interactive Prime_video Dashboard:** *Click Here*  
+📊 **View the Interactive Dashboard:**   
+  
+![Untitled design (1)](https://github.com/user-attachments/assets/f841230a-7fdb-4e9a-a952-ee2c0a45e7ee)
 
 
 ## 📌 How to Use This Dashboard  
